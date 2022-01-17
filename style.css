@@ -1,0 +1,78 @@
+h1 {
+    color: blue;
+    font-size: 50px;
+    font-family: 'Neonderthaw', cursive;
+}
+
+img {
+    margin: auto;
+}
+ 
+h2 {
+    color: crimson;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    color: darkgreen;
+    font-size: 40px;
+}
+
+body {
+    background-color: paleturquoise;
+    text-align: center;
+}
+
+a {
+    color: black;
+    background-color: blue;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+p {
+  font-size: 30px;
+  font-family: 'Luxurious Roman', cursive;
+  
+} 
+
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+.presentation {
+    background-color: tomato;
+    border-radius: 50px;
+    border: 15px solid yellow;
+}
+
+.fin{
+    background-color: turquoise;
+    border-radius: 50px;
+    border: 15px solid blue;
+}
+
+.le-metier {
+    background-color: yellow;
+    border-radius: 50px;
+    border: 15px solid greenyellow;
+}
+    
+li {
+    display: inline;
+}
+
+.pictures {
+    border-radius: 50%;
+}
+
+@media(max-width:960px) {.container {width: 600px;}
+
+@media(max-width:720px) {.container {width: 500px;}
+
+@media(max-width:540px) {.container {width: 300px;}
+
+
+    
